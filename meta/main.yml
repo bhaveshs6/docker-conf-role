@@ -32,13 +32,12 @@ galaxy_info:
   #   versions:
   #   - all
   #   - 25
-  - name: RedHat
+  - name: Fedora
     versions:
-  #   - all
-  #   - 1.0
-  #   - 7
-  #   - 99.99
-    - 8
+    - all
+    - 1.0
+    - 7
+    - 99.99
 
   galaxy_tags:
           - docker
