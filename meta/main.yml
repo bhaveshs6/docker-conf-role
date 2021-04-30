@@ -27,17 +27,18 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-  # platforms:
+  platforms:
   # - name: Fedora
   #   versions:
   #   - all
   #   - 25
-  # - name: SomePlatform
-  #   versions:
+  - name: RedHat Enterprise Linux
+    versions:
   #   - all
   #   - 1.0
   #   - 7
   #   - 99.99
+    - 8
 
   galaxy_tags:
           - docker
